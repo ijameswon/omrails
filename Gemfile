@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.0.rc2'
 
 group :production do
-  gem 'pg'
+  gem 'pg' 
 end
 
 group :development, :test do
