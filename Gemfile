@@ -8,7 +8,7 @@ end
 
 group :development, :test do
   gem 'sqlite3'
-end
+end 
 
 gem 'sass-rails', '~> 4.0.0.rc2'
 
