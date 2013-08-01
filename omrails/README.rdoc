@@ -1,0 +1,4 @@
+# One Month Rails
+
+This is the simple application for 
+New application and learning!
